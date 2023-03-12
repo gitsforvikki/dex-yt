@@ -1033,6 +1033,20 @@ section .container {
   border-bottom: 1px solid #eee;
 }
 
+.portfolio-details .portfolio-info p {
+ font-size: 18px;
+}
+
+
+.portfolio-details .usermainuals p {
+  font-size: 18px;
+ }
+
+ .portfolio-details .usermainuals h3 {
+  font-size: 25px;
+  border-bottom: 1px solid #eee;
+ }
+
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
@@ -1041,6 +1055,7 @@ section .container {
 
 .portfolio-details .portfolio-info ul li+li {
   margin-top: 10px;
+  font-size: 15px;
 }
 
 .portfolio-details .portfolio-description {
